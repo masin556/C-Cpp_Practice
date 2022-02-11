@@ -1,0 +1,3 @@
+﻿  scanf_inputall.cpp
+s:\c++dudletrain\cpp_practice\c++train\input\input\scanf_inputall.cpp(15): error C2084: 'int main(void)' 함수에 이미 본문이 있습니다.
+  s:\c++dudletrain\cpp_practice\c++train\input\input\scanf_inputall.cpp(3): note: 'main'의 이전 정의를 참조하십시오.
