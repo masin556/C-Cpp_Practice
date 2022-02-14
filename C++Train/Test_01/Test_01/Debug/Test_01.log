@@ -1,0 +1,5 @@
+﻿  test03_sik.cpp
+s:\c++dudletrain\cpp_practice\c++train\test_01\test_01\test03_sik.cpp(10): warning C4477: 'scanf' : 서식 문자열 '%c'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+s:\c++dudletrain\cpp_practice\c++train\test_01\test_01\test03_sik.cpp(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+  Test_01.vcxproj -> S:\C++DuDleTrain\Cpp_Practice\C++Train\Test_01\Debug\Test_01.exe
