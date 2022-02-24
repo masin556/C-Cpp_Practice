@@ -5,6 +5,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="220224">
+      <UniqueIdentifier>{74842ce1-d658-4321-a150-6f8001d7162a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ex01.cpp" />
@@ -12,6 +15,15 @@
     <ClCompile Include="ex03T.cpp" />
     <ClCompile Include="ex04.cpp">
       <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ex05.cpp">
+      <Filter>220224</Filter>
+    </ClCompile>
+    <ClCompile Include="ex06.cpp">
+      <Filter>220224</Filter>
+    </ClCompile>
+    <ClCompile Include="ex07.cpp">
+      <Filter>220224</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
