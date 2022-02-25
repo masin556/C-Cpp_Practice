@@ -8,6 +8,9 @@
     <Filter Include="220224">
       <UniqueIdentifier>{74842ce1-d658-4321-a150-6f8001d7162a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="220225">
+      <UniqueIdentifier>{d6bb4ce1-a324-4c19-a9cc-15417679f399}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ex01.cpp" />
@@ -24,6 +27,15 @@
     </ClCompile>
     <ClCompile Include="ex07.cpp">
       <Filter>220224</Filter>
+    </ClCompile>
+    <ClCompile Include="ex08.cpp">
+      <Filter>220225</Filter>
+    </ClCompile>
+    <ClCompile Include="ex09.cpp">
+      <Filter>220225</Filter>
+    </ClCompile>
+    <ClCompile Include="ex10.cpp">
+      <Filter>220225</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
