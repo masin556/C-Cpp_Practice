@@ -1,0 +1,3 @@
+﻿  ex02.cpp
+s:\c++dudletrain\cpp_practice\c++train\multidimensional_arrangement\m_arrange\ex02.cpp(29): warning C4778: 'printf' : 서식 문자열 '%\n'이(가) 종결되지 않았습니다.
+  M_arrange.vcxproj -> S:\C++DuDleTrain\Cpp_Practice\C++Train\Multidimensional_arrangement\Debug\M_arrange.exe
