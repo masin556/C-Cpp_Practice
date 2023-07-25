@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="cppBasicPlus">
+      <UniqueIdentifier>{dee7063b-0b99-4a93-b8a2-1e68de910e62}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cppBasicPlus\데이터처리">
+      <UniqueIdentifier>{f2a4d45f-4e12-47a4-8a2c-b0f55c9e1148}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cppMMORPG">
+      <UniqueIdentifier>{7930b024-ac10-45a5-a2e4-01bdb9b3258c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="limits.cpp">
+      <Filter>cppBasicPlus\데이터처리</Filter>
+    </ClCompile>
+    <ClCompile Include="cppMMORPG\cppStudy_const와 메모리구조.cpp">
+      <Filter>cppMMORPG</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
