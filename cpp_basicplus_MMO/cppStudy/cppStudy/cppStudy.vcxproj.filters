@@ -10,13 +10,21 @@
     <Filter Include="cppMMORPG">
       <UniqueIdentifier>{7930b024-ac10-45a5-a2e4-01bdb9b3258c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="cppMMORPG\const와 메모리구조">
+      <UniqueIdentifier>{b04f900a-54d7-4b9f-bc2c-fe14b2c00ecb}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="limits.cpp">
+    <ClCompile Include="cppBasicPlus\limits.cpp">
       <Filter>cppBasicPlus\데이터처리</Filter>
     </ClCompile>
     <ClCompile Include="cppMMORPG\cppStudy_const와 메모리구조.cpp">
-      <Filter>cppMMORPG</Filter>
+      <Filter>cppMMORPG\const와 메모리구조</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="constWithmemory.txt">
+      <Filter>cppMMORPG\const와 메모리구조</Filter>
+    </Text>
   </ItemGroup>
 </Project>

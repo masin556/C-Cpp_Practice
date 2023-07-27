@@ -127,10 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="cppMMORPG\cppStudy_const와 메모리구조.cpp">
+    <ClCompile Include="cppBasicPlus\limits.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="limits.cpp" />
+    <ClCompile Include="cppMMORPG\cppStudy_const와 메모리구조.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="constWithmemory.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
