@@ -13,6 +13,12 @@
     <Filter Include="cppMMORPG\const와 메모리구조">
       <UniqueIdentifier>{b04f900a-54d7-4b9f-bc2c-fe14b2c00ecb}</UniqueIdentifier>
     </Filter>
+    <Filter Include="cppMMORPG\S_유의사항">
+      <UniqueIdentifier>{c9677509-7fbc-4b16-b68d-cf1a1e740896}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cppMMORPG\S_분기문">
+      <UniqueIdentifier>{0b86c92a-9126-4cb7-a8f5-b8b07765b818}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="cppBasicPlus\limits.cpp">
@@ -21,10 +27,22 @@
     <ClCompile Include="cppMMORPG\cppStudy_const와 메모리구조.cpp">
       <Filter>cppMMORPG\const와 메모리구조</Filter>
     </ClCompile>
+    <ClCompile Include="Precautions.cpp">
+      <Filter>cppMMORPG\S_유의사항</Filter>
+    </ClCompile>
+    <ClCompile Include="Branching.cpp">
+      <Filter>cppMMORPG\S_분기문</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="constWithmemory.txt">
       <Filter>cppMMORPG\const와 메모리구조</Filter>
+    </Text>
+    <Text Include="Precaution.txt">
+      <Filter>cppMMORPG\S_유의사항</Filter>
+    </Text>
+    <Text Include="분기문.txt">
+      <Filter>cppMMORPG\S_분기문</Filter>
     </Text>
   </ItemGroup>
 </Project>
