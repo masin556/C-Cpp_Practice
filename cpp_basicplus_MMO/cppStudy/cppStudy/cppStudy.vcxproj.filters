@@ -33,6 +33,12 @@
     <ClCompile Include="Branching.cpp">
       <Filter>cppMMORPG\S_분기문</Filter>
     </ClCompile>
+    <ClCompile Include="exceed.cpp">
+      <Filter>cppBasicPlus\데이터처리</Filter>
+    </ClCompile>
+    <ClCompile Include="hexoct1.cpp">
+      <Filter>cppBasicPlus\데이터처리</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="constWithmemory.txt">
