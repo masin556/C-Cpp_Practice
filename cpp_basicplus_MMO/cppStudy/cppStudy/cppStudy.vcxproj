@@ -142,6 +142,10 @@
     <ClCompile Include="hexoct1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="Hexoct2.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="iteration_반복문.cpp" />
     <ClCompile Include="Precautions.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
@@ -150,6 +154,7 @@
     <Text Include="constWithmemory.txt" />
     <Text Include="Precaution.txt" />
     <Text Include="분기문.txt" />
+    <Text Include="iteration_반복문.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

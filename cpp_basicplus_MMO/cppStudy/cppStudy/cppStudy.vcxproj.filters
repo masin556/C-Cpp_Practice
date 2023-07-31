@@ -19,6 +19,9 @@
     <Filter Include="cppMMORPG\S_분기문">
       <UniqueIdentifier>{0b86c92a-9126-4cb7-a8f5-b8b07765b818}</UniqueIdentifier>
     </Filter>
+    <Filter Include="cppMMORPG\S_반복문">
+      <UniqueIdentifier>{ac956496-5488-41ae-b530-f14df6e4bdbc}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="cppBasicPlus\limits.cpp">
@@ -39,6 +42,12 @@
     <ClCompile Include="hexoct1.cpp">
       <Filter>cppBasicPlus\데이터처리</Filter>
     </ClCompile>
+    <ClCompile Include="Hexoct2.cpp">
+      <Filter>cppBasicPlus\데이터처리</Filter>
+    </ClCompile>
+    <ClCompile Include="iteration_반복문.cpp">
+      <Filter>cppMMORPG\S_반복문</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="constWithmemory.txt">
@@ -49,6 +58,9 @@
     </Text>
     <Text Include="분기문.txt">
       <Filter>cppMMORPG\S_분기문</Filter>
+    </Text>
+    <Text Include="iteration_반복문.txt">
+      <Filter>cppMMORPG\S_반복문</Filter>
     </Text>
   </ItemGroup>
 </Project>
