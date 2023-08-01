@@ -145,10 +145,13 @@
     <ClCompile Include="Hexoct2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="iteration_반복문.cpp" />
+    <ClCompile Include="iteration_반복문.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="Precautions.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="star_with_multiplicationTable.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="constWithmemory.txt" />

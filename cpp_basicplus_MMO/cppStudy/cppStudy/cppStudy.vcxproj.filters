@@ -22,6 +22,9 @@
     <Filter Include="cppMMORPG\S_반복문">
       <UniqueIdentifier>{ac956496-5488-41ae-b530-f14df6e4bdbc}</UniqueIdentifier>
     </Filter>
+    <Filter Include="cppMMORPG\S_연습문제들">
+      <UniqueIdentifier>{3d82daf5-112d-4ad0-a51a-20e07ebc697c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="cppBasicPlus\limits.cpp">
@@ -47,6 +50,9 @@
     </ClCompile>
     <ClCompile Include="iteration_반복문.cpp">
       <Filter>cppMMORPG\S_반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="star_with_multiplicationTable.cpp">
+      <Filter>cppMMORPG\S_연습문제들</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
