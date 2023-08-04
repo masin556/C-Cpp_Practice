@@ -27,46 +27,67 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="cppBasicPlus\limits.cpp">
+    <ClCompile Include="cppBasicPlus\데이터처리\hexoct1.cpp">
       <Filter>cppBasicPlus\데이터처리</Filter>
     </ClCompile>
-    <ClCompile Include="cppMMORPG\cppStudy_const와 메모리구조.cpp">
+    <ClCompile Include="cppBasicPlus\데이터처리\Hexoct2.cpp">
+      <Filter>cppBasicPlus\데이터처리</Filter>
+    </ClCompile>
+    <ClCompile Include="cppBasicPlus\데이터처리\limits.cpp">
+      <Filter>cppBasicPlus\데이터처리</Filter>
+    </ClCompile>
+    <ClCompile Include="cppBasicPlus\데이터처리\Chartype.cpp">
+      <Filter>cppBasicPlus\데이터처리</Filter>
+    </ClCompile>
+    <ClCompile Include="cppBasicPlus\데이터처리\exceed.cpp">
+      <Filter>cppBasicPlus\데이터처리</Filter>
+    </ClCompile>
+    <ClCompile Include="cppMMORPG\const와 메모리구조\cppStudy_const와 메모리구조.cpp">
       <Filter>cppMMORPG\const와 메모리구조</Filter>
     </ClCompile>
-    <ClCompile Include="Precautions.cpp">
-      <Filter>cppMMORPG\S_유의사항</Filter>
-    </ClCompile>
-    <ClCompile Include="Branching.cpp">
-      <Filter>cppMMORPG\S_분기문</Filter>
-    </ClCompile>
-    <ClCompile Include="exceed.cpp">
-      <Filter>cppBasicPlus\데이터처리</Filter>
-    </ClCompile>
-    <ClCompile Include="hexoct1.cpp">
-      <Filter>cppBasicPlus\데이터처리</Filter>
-    </ClCompile>
-    <ClCompile Include="Hexoct2.cpp">
-      <Filter>cppBasicPlus\데이터처리</Filter>
-    </ClCompile>
-    <ClCompile Include="iteration_반복문.cpp">
+    <ClCompile Include="cppMMORPG\S_반복문\iteration_반복문.cpp">
       <Filter>cppMMORPG\S_반복문</Filter>
     </ClCompile>
-    <ClCompile Include="star_with_multiplicationTable.cpp">
+    <ClCompile Include="cppMMORPG\S_분기문\Branching.cpp">
+      <Filter>cppMMORPG\S_분기문</Filter>
+    </ClCompile>
+    <ClCompile Include="cppMMORPG\S_연습문제들\star_01.cpp">
+      <Filter>cppMMORPG\S_연습문제들</Filter>
+    </ClCompile>
+    <ClCompile Include="cppMMORPG\S_유의사항\Precautions.cpp">
+      <Filter>cppMMORPG\S_유의사항</Filter>
+    </ClCompile>
+    <ClCompile Include="star_02.cpp">
+      <Filter>cppMMORPG\S_연습문제들</Filter>
+    </ClCompile>
+    <ClCompile Include="star_03.cpp">
+      <Filter>cppMMORPG\S_연습문제들</Filter>
+    </ClCompile>
+    <ClCompile Include="multiplication table.cpp">
+      <Filter>cppMMORPG\S_연습문제들</Filter>
+    </ClCompile>
+    <ClCompile Include="Rock_paper_scissors.cpp">
       <Filter>cppMMORPG\S_연습문제들</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="constWithmemory.txt">
+    <Text Include="cppMMORPG\const와 메모리구조\constWithmemory.txt">
       <Filter>cppMMORPG\const와 메모리구조</Filter>
     </Text>
-    <Text Include="Precaution.txt">
-      <Filter>cppMMORPG\S_유의사항</Filter>
+    <Text Include="cppMMORPG\S_반복문\iteration_반복문.txt">
+      <Filter>cppMMORPG\S_반복문</Filter>
     </Text>
-    <Text Include="분기문.txt">
+    <Text Include="cppMMORPG\S_분기문\분기문.txt">
       <Filter>cppMMORPG\S_분기문</Filter>
     </Text>
-    <Text Include="iteration_반복문.txt">
-      <Filter>cppMMORPG\S_반복문</Filter>
+    <Text Include="cppMMORPG\S_유의사항\Precaution.txt">
+      <Filter>cppMMORPG\S_유의사항</Filter>
+    </Text>
+    <Text Include="star_with.txt">
+      <Filter>cppMMORPG\S_연습문제들</Filter>
+    </Text>
+    <Text Include="Rock_paper_scissors.txt">
+      <Filter>cppMMORPG\S_연습문제들</Filter>
     </Text>
   </ItemGroup>
 </Project>
