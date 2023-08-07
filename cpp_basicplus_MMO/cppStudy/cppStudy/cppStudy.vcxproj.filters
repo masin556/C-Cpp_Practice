@@ -25,6 +25,9 @@
     <Filter Include="cppMMORPG\S_연습문제들">
       <UniqueIdentifier>{3d82daf5-112d-4ad0-a51a-20e07ebc697c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="cppMMORPG\S_열거형">
+      <UniqueIdentifier>{dc0b1a68-6ac3-4c19-b6ad-c9810667feab}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="cppBasicPlus\데이터처리\hexoct1.cpp">
@@ -51,22 +54,22 @@
     <ClCompile Include="cppMMORPG\S_분기문\Branching.cpp">
       <Filter>cppMMORPG\S_분기문</Filter>
     </ClCompile>
-    <ClCompile Include="cppMMORPG\S_연습문제들\star_01.cpp">
-      <Filter>cppMMORPG\S_연습문제들</Filter>
-    </ClCompile>
     <ClCompile Include="cppMMORPG\S_유의사항\Precautions.cpp">
       <Filter>cppMMORPG\S_유의사항</Filter>
     </ClCompile>
-    <ClCompile Include="star_02.cpp">
+    <ClCompile Include="cppMMORPG\S_연습문제들\star_02.cpp">
       <Filter>cppMMORPG\S_연습문제들</Filter>
     </ClCompile>
-    <ClCompile Include="star_03.cpp">
+    <ClCompile Include="cppMMORPG\S_연습문제들\star_03.cpp">
       <Filter>cppMMORPG\S_연습문제들</Filter>
     </ClCompile>
-    <ClCompile Include="multiplication table.cpp">
+    <ClCompile Include="cppMMORPG\S_연습문제들\multiplication table.cpp">
       <Filter>cppMMORPG\S_연습문제들</Filter>
     </ClCompile>
-    <ClCompile Include="Rock_paper_scissors.cpp">
+    <ClCompile Include="cppMMORPG\S_연습문제들\Rock_paper_scissors.cpp">
+      <Filter>cppMMORPG\S_연습문제들</Filter>
+    </ClCompile>
+    <ClCompile Include="cppMMORPG\S_연습문제들\star_01.cpp">
       <Filter>cppMMORPG\S_연습문제들</Filter>
     </ClCompile>
   </ItemGroup>
@@ -83,10 +86,10 @@
     <Text Include="cppMMORPG\S_유의사항\Precaution.txt">
       <Filter>cppMMORPG\S_유의사항</Filter>
     </Text>
-    <Text Include="star_with.txt">
+    <Text Include="cppMMORPG\S_연습문제들\star_with.txt">
       <Filter>cppMMORPG\S_연습문제들</Filter>
     </Text>
-    <Text Include="Rock_paper_scissors.txt">
+    <Text Include="cppMMORPG\S_연습문제들\Rock_paper_scissors.txt">
       <Filter>cppMMORPG\S_연습문제들</Filter>
     </Text>
   </ItemGroup>
