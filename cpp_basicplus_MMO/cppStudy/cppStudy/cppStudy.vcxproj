@@ -142,6 +142,9 @@
     <ClCompile Include="cppBasicPlus\데이터처리\limits.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="cppBasicPlus\데이터처리\morechar.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="cppMMORPG\const와 메모리구조\cppStudy_const와 메모리구조.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
@@ -166,7 +169,13 @@
     <ClCompile Include="cppMMORPG\S_연습문제들\star_03.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="cppMMORPG\S_열거형\Enumeration_type.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="cppMMORPG\S_유의사항\Precautions.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="coutput.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
   </ItemGroup>
@@ -176,6 +185,7 @@
     <Text Include="cppMMORPG\S_분기문\분기문.txt" />
     <Text Include="cppMMORPG\S_연습문제들\Rock_paper_scissors.txt" />
     <Text Include="cppMMORPG\S_연습문제들\star_with.txt" />
+    <Text Include="cppMMORPG\S_열거형\열거형.txt" />
     <Text Include="cppMMORPG\S_유의사항\Precaution.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

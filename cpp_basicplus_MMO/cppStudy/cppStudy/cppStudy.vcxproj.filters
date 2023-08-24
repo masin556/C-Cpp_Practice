@@ -72,6 +72,15 @@
     <ClCompile Include="cppMMORPG\S_연습문제들\star_01.cpp">
       <Filter>cppMMORPG\S_연습문제들</Filter>
     </ClCompile>
+    <ClCompile Include="cppBasicPlus\데이터처리\morechar.cpp">
+      <Filter>cppBasicPlus\데이터처리</Filter>
+    </ClCompile>
+    <ClCompile Include="coutput.cpp">
+      <Filter>cppBasicPlus\데이터처리</Filter>
+    </ClCompile>
+    <ClCompile Include="cppMMORPG\S_열거형\Enumeration_type.cpp">
+      <Filter>cppMMORPG\S_열거형</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="cppMMORPG\const와 메모리구조\constWithmemory.txt">
@@ -91,6 +100,9 @@
     </Text>
     <Text Include="cppMMORPG\S_연습문제들\Rock_paper_scissors.txt">
       <Filter>cppMMORPG\S_연습문제들</Filter>
+    </Text>
+    <Text Include="cppMMORPG\S_열거형\열거형.txt">
+      <Filter>cppMMORPG\S_열거형</Filter>
     </Text>
   </ItemGroup>
 </Project>
