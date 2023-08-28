@@ -12,5 +12,23 @@
     <ClCompile Include="P_1장\Hello.c">
       <Filter>P_1장</Filter>
     </ClCompile>
+    <ClCompile Include="P_2장\PrintfScanf2_1.c">
+      <Filter>P_2장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_2장\realNumber2_2.c">
+      <Filter>P_2장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_2장\quiz_01.c">
+      <Filter>P_2장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_2장\constantNumber2_3.c">
+      <Filter>P_2장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_2장\printf2_4.c">
+      <Filter>P_2장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_2장\scanf2_5.c">
+      <Filter>P_2장</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
