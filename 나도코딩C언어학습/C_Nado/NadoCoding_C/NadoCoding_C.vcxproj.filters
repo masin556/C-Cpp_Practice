@@ -30,5 +30,8 @@
     <ClCompile Include="P_2장\scanf2_5.c">
       <Filter>P_2장</Filter>
     </ClCompile>
+    <ClCompile Include="quiz_02.c">
+      <Filter>P_2장</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
