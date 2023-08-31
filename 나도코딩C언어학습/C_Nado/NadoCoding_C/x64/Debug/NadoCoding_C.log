@@ -1,2 +1,5 @@
-﻿  quiz_02.c
+﻿  Repeated3_3.c
+D:\C-Cpp_Practice\나도코딩C언어학습\C_Nado\NadoCoding_C\P_3장\Repeated3_3.c(25,10): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+D:\C-Cpp_Practice\나도코딩C언어학습\C_Nado\NadoCoding_C\P_3장\Repeated3_3.c(25,10): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+D:\C-Cpp_Practice\나도코딩C언어학습\C_Nado\NadoCoding_C\P_3장\Repeated3_3.c(25,10): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%d'에 필요합니다.
   NadoCoding_C.vcxproj -> D:\C-Cpp_Practice\나도코딩C언어학습\C_Nado\x64\Debug\NadoCoding_C.exe

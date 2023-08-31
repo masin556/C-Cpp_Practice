@@ -7,6 +7,9 @@
     <Filter Include="P_2장">
       <UniqueIdentifier>{58202f9d-5dcd-4f00-8a9f-5a7841b77c65}</UniqueIdentifier>
     </Filter>
+    <Filter Include="P_3장">
+      <UniqueIdentifier>{56bbe13f-afc9-4331-b19b-8d5df18bb748}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="P_1장\Hello.c">
@@ -32,6 +35,21 @@
     </ClCompile>
     <ClCompile Include="quiz_02.c">
       <Filter>P_2장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_2장\Project_경찰조서쓰기2_6.c">
+      <Filter>P_2장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_2장\selfcheck_회원가입쇼핑몰.c">
+      <Filter>P_2장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_3장\plusplus3_2.c">
+      <Filter>P_3장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_3장\quiz_03.c">
+      <Filter>P_3장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_3장\Repeated3_3.c">
+      <Filter>P_3장</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
