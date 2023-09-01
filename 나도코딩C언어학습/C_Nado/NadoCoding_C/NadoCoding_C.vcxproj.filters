@@ -33,9 +33,6 @@
     <ClCompile Include="P_2장\scanf2_5.c">
       <Filter>P_2장</Filter>
     </ClCompile>
-    <ClCompile Include="quiz_02.c">
-      <Filter>P_2장</Filter>
-    </ClCompile>
     <ClCompile Include="P_2장\Project_경찰조서쓰기2_6.c">
       <Filter>P_2장</Filter>
     </ClCompile>
@@ -49,6 +46,27 @@
       <Filter>P_3장</Filter>
     </ClCompile>
     <ClCompile Include="P_3장\Repeated3_3.c">
+      <Filter>P_3장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_3장\MultiplicationTable3_4_1.c">
+      <Filter>P_3장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_3장\star3_4_2.c">
+      <Filter>P_3장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_3장\star3_4_3.c">
+      <Filter>P_3장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_3장\quiz_04.c">
+      <Filter>P_3장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_3장\Project_피라미드 쌓기3_5.c">
+      <Filter>P_3장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_2장\quiz_02.c">
+      <Filter>P_2장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_3장\selfcheck_별표 찍기.c">
       <Filter>P_3장</Filter>
     </ClCompile>
   </ItemGroup>
