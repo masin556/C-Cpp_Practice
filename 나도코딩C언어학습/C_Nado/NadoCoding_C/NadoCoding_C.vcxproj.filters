@@ -10,6 +10,9 @@
     <Filter Include="P_3장">
       <UniqueIdentifier>{56bbe13f-afc9-4331-b19b-8d5df18bb748}</UniqueIdentifier>
     </Filter>
+    <Filter Include="P_4장">
+      <UniqueIdentifier>{edab491a-e50b-44fb-9c87-a1c463f6a088}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="P_1장\Hello.c">
@@ -68,6 +71,18 @@
     </ClCompile>
     <ClCompile Include="P_3장\selfcheck_별표 찍기.c">
       <Filter>P_3장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_4장\conditionalBranching4_2.c">
+      <Filter>P_4장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_4장\quiz_05.c">
+      <Filter>P_4장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_4장\AbortingExecution4_3.c">
+      <Filter>P_4장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_4장\quiz_06.c">
+      <Filter>P_4장</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
