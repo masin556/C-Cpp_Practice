@@ -13,6 +13,9 @@
     <Filter Include="P_4장">
       <UniqueIdentifier>{edab491a-e50b-44fb-9c87-a1c463f6a088}</UniqueIdentifier>
     </Filter>
+    <Filter Include="P_5장">
+      <UniqueIdentifier>{9ada5aa5-27d2-48b5-9b1d-8ac505a0ebeb}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="P_1장\Hello.c">
@@ -83,6 +86,39 @@
     </ClCompile>
     <ClCompile Include="P_4장\quiz_06.c">
       <Filter>P_4장</Filter>
+    </ClCompile>
+    <ClCompile Include="quarter4_4.c">
+      <Filter>P_4장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_4장\Switch4_4_2.c">
+      <Filter>P_4장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_4장\Project_숫자 맞히기4_5.c">
+      <Filter>P_4장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_5장\Function5_2.c">
+      <Filter>P_5장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_5장\FunctionType5_3.c">
+      <Filter>P_5장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_5장\FunctionType5_3_2.c">
+      <Filter>P_5장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_5장\FunctionType5_3_3.c">
+      <Filter>P_5장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_5장\FunctionType5_3_4.c">
+      <Filter>P_5장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_5장\FunctionType5_3_5.c">
+      <Filter>P_5장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_5장\FourFundamentalArithmeticFunction5_4.c">
+      <Filter>P_5장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_5장\quiz_07.c">
+      <Filter>P_5장</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

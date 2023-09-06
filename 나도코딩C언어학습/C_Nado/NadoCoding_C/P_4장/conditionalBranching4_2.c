@@ -43,7 +43,7 @@ int main(void)
 #pragma region AND 4.2.3
 	int age = 0;
 	int a, b, c, d;
-	scanf("%d,%d,%d,%d", &a, &b, &c, &d);
+	scanf_s("%d,%d,%d,%d", &a, &b, &c, &d);
 
 	/* AND는 두 조건이 모두 만족해야한다.*/
 	if (age >= 8 && age <= 13)
@@ -68,6 +68,6 @@ int main(void)
 		printf("a와 b또는 c와 d의 값이 같다.\n");
 	}
 
-#pragma endregion 
+#pragma endregion
 	return 0;
 }

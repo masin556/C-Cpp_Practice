@@ -1,2 +1,7 @@
-﻿  quiz_06.c
-  NadoCoding_C.vcxproj -> D:\C-Cpp_Practice\나도코딩C언어학습\C_Nado\x64\Debug\NadoCoding_C.exe
+﻿  quiz_07.c
+D:\C-Cpp_Practice\나도코딩C언어학습\C_Nado\NadoCoding_C\P_5장\quiz_07.c(4,27): warning C4031: 둘째 정식 매개 변수 목록이 첫째 목록보다 깁니다.
+D:\C-Cpp_Practice\나도코딩C언어학습\C_Nado\NadoCoding_C\P_5장\quiz_07.c(5,34): warning C4031: 둘째 정식 매개 변수 목록이 첫째 목록보다 깁니다.
+D:\C-Cpp_Practice\나도코딩C언어학습\C_Nado\NadoCoding_C\P_5장\quiz_07.c(9,2): error C2198: 'my_func': 호출에 인수가 너무 적습니다.
+D:\C-Cpp_Practice\나도코딩C언어학습\C_Nado\NadoCoding_C\P_5장\quiz_07.c(16,1): warning C4029: 선언된 정식 매개 변수 목록이 정의와 다릅니다.
+D:\C-Cpp_Practice\나도코딩C언어학습\C_Nado\NadoCoding_C\P_5장\quiz_07.c(20,6): error C2084: 'void my_func(int)' 함수에 이미 본문이 있습니다.
+D:\C-Cpp_Practice\나도코딩C언어학습\C_Nado\NadoCoding_C\P_5장\quiz_07.c(15,6): message : 'my_func'의 이전 정의를 참조하십시오.

@@ -24,7 +24,7 @@ int main(void)
 
 	double d = 4.428; // 3번째 자리에서 반올림 되어서 4.43으로 출력
 	printf("%.2lf\n", d);
-#pragma endregion 42.50 \ 4.43
+#pragma endregion 42.50 _ 4.43
 
 	return 0;
 }
