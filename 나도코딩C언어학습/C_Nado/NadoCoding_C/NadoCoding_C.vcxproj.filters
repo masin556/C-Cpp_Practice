@@ -16,6 +16,9 @@
     <Filter Include="P_5장">
       <UniqueIdentifier>{9ada5aa5-27d2-48b5-9b1d-8ac505a0ebeb}</UniqueIdentifier>
     </Filter>
+    <Filter Include="P_6장">
+      <UniqueIdentifier>{fce29420-079d-429c-a3f1-2329ae01f805}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="P_1장\Hello.c">
@@ -119,6 +122,27 @@
     </ClCompile>
     <ClCompile Include="P_5장\quiz_07.c">
       <Filter>P_5장</Filter>
+    </ClCompile>
+    <ClCompile Include="Project_비밀번호마스터5_5.c">
+      <Filter>P_5장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_5장\SelfCheck_영화상영시간.c">
+      <Filter>P_5장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_6장\Array6_2.c">
+      <Filter>P_6장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_6장\Array_Initialization6_3.c">
+      <Filter>P_6장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_6장\ArrayString6_4.c">
+      <Filter>P_6장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_6장\StringDeepLearn6_5.c">
+      <Filter>P_6장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_6장\ASCIIcode6_5_3.c">
+      <Filter>P_6장</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
