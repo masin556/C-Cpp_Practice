@@ -1,4 +1,2 @@
-﻿  SelfCheck_학생시험.c
-D:\C-Cpp_Practice\나도코딩C언어학습\C_Nado\NadoCoding_C\P_6장\SelfCheck_학생시험.c(19,6): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
-D:\C-Cpp_Practice\나도코딩C언어학습\C_Nado\NadoCoding_C\P_6장\SelfCheck_학생시험.c(19,9): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
+﻿  PracticePointer7_3_3.c
   NadoCoding_C.vcxproj -> D:\C-Cpp_Practice\나도코딩C언어학습\C_Nado\x64\Debug\NadoCoding_C.exe

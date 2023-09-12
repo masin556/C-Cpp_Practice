@@ -19,6 +19,9 @@
     <Filter Include="P_6장">
       <UniqueIdentifier>{fce29420-079d-429c-a3f1-2329ae01f805}</UniqueIdentifier>
     </Filter>
+    <Filter Include="P_7장">
+      <UniqueIdentifier>{fbcb12ae-4e80-411f-a171-5d09258edb97}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="P_1장\Hello.c">
@@ -149,6 +152,18 @@
     </ClCompile>
     <ClCompile Include="P_6장\SelfCheck_학생시험.c">
       <Filter>P_6장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_7장\Pointer7_2.c">
+      <Filter>P_7장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_7장\Pointer7_3.c">
+      <Filter>P_7장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_7장\PracticePointer7_3_2.c">
+      <Filter>P_7장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_7장\PracticePointer7_3_3.c">
+      <Filter>P_7장</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
