@@ -22,6 +22,9 @@
     <Filter Include="P_7장">
       <UniqueIdentifier>{fbcb12ae-4e80-411f-a171-5d09258edb97}</UniqueIdentifier>
     </Filter>
+    <Filter Include="P_8장">
+      <UniqueIdentifier>{8728ac2a-c3a2-42db-9065-f4754545f5f5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="P_1장\Hello.c">
@@ -170,6 +173,15 @@
     </ClCompile>
     <ClCompile Include="P_7장\SelfCheck_배열포인터.cpp">
       <Filter>P_7장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_8장\MultiDimensionAlarray8_3.c">
+      <Filter>P_8장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_8장\quiz08.c">
+      <Filter>P_8장</Filter>
+    </ClCompile>
+    <ClCompile Include="quiz09.c">
+      <Filter>P_8장</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
