@@ -274,6 +274,7 @@
     <ClCompile Include="P_8장\MultiDimensionAlarray8_3.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="P_8장\Project_동물카드 뒤집기8_4.c" />
     <ClCompile Include="P_8장\quiz08.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>

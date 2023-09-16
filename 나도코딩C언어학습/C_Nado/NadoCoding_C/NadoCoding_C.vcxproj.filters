@@ -183,5 +183,8 @@
     <ClCompile Include="quiz09.c">
       <Filter>P_8장</Filter>
     </ClCompile>
+    <ClCompile Include="P_8장\Project_동물카드 뒤집기8_4.c">
+      <Filter>P_8장</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
