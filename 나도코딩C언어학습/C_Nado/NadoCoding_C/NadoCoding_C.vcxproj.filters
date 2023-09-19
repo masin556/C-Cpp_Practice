@@ -25,6 +25,9 @@
     <Filter Include="P_8장">
       <UniqueIdentifier>{8728ac2a-c3a2-42db-9065-f4754545f5f5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="P_9장">
+      <UniqueIdentifier>{e9a82800-092b-4089-bdc6-a8b9a8595691}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="P_1장\Hello.c">
@@ -180,11 +183,32 @@
     <ClCompile Include="P_8장\quiz08.c">
       <Filter>P_8장</Filter>
     </ClCompile>
-    <ClCompile Include="quiz09.c">
-      <Filter>P_8장</Filter>
-    </ClCompile>
     <ClCompile Include="P_8장\Project_동물카드 뒤집기8_4.c">
       <Filter>P_8장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_8장\quiz09.c">
+      <Filter>P_8장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_8장\SelfCheck_무인자판기.c">
+      <Filter>P_8장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_9장\StructureType9_2.c">
+      <Filter>P_9장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_9장\UseStructure9_3.c">
+      <Filter>P_9장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_9장\quiz10.c">
+      <Filter>P_9장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_9장\TypedefStructure9_4.c">
+      <Filter>P_9장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_9장\Project_너내집사가되어라9_5.c">
+      <Filter>P_9장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_9장\SelfCheck_도서관리프로그램.c">
+      <Filter>P_9장</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

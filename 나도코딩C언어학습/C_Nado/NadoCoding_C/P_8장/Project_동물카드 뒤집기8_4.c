@@ -46,14 +46,16 @@ int main(void)
 	// 함수 호출
 	InitAnimalArray();
 	InitAnimalName();
+	ShuffleAnimal();
+
+	int failCount = 0;  //실패횟수
 
 	while (1)
 	{
 		int select1 = 0; //첫번째 카드 번호 저장
 		int select2 = 0; //두번째 선택한 카드 번호 저장
-		int failCount = 0;  //실패횟수
-		printQuestion();
 		printAnimals();
+		printQuestion();
 
 		printf("\n뒤집을 카드 2장을 고르시오.(예 : 12, 4) -> ");
 		scanf_s("%d %d", &select1, &select2);
@@ -65,12 +67,14 @@ int main(void)
 
 		//입력받은 카드 번호를 x, y좌표로 변환
 		int firstSelect_x = conv_pos_x(select1);
-		int firstSelect_y = conv_pos_y(select2);
-		int secondSelect_x = conv_pos_x(select1);
+		int firstSelect_y = conv_pos_y(select1);
+		int secondSelect_x = conv_pos_x(select2);
 		int secondSelect_y = conv_pos_y(select2);
 
-		if (str_Animal[firstSelect_x][firstSelect_y] == 0 && check_Animal[secondSelect_x][secondSelect_y] == 0 && (array_Animal[firstSelect_x][firstSelect_y] == array_Animal[secondSelect_x][secondSelect_y])) {
-			//두 카드가 같은 동물이고 뒷면인 경우 
+		if (check_Animal[firstSelect_x][firstSelect_y] == 0
+			&& check_Animal[secondSelect_x][secondSelect_y] == 0
+			&& (array_Animal[firstSelect_x][firstSelect_y] == array_Animal[secondSelect_x][secondSelect_y])) {
+			//두 카드가 같은 동물이고 뒷면인 경우
 			printf("\n\n빙고! %s 발견\n\n", str_Animal[array_Animal[firstSelect_x][firstSelect_y]]);
 			check_Animal[firstSelect_x][firstSelect_y] = 1;
 			check_Animal[secondSelect_x][secondSelect_y] = 1;
@@ -139,7 +143,7 @@ void printQuestion()
 
 	for (int i = 0; i < 4; i++) {
 		for (int j = 0; j < 5; j++) {
-			if (check_Animal[i][j] != 0) 
+			if (check_Animal[i][j] != 0)
 			{
 				printf("%8s", str_Animal[array_Animal[i][j]]);
 			}
@@ -147,7 +151,7 @@ void printQuestion()
 			{
 				printf("%8d", seq);
 			}
-				seq++; //다음 카드로 넘어가기
+			seq++; //다음 카드로 넘어가기
 		}
 		printf("\n");
 	}
@@ -167,7 +171,7 @@ void printAnimals()
 //////////////////////////////////////////////////////
 
 int RGetEmptyPosition()
-{//-- arrayAnimal 배열에 빈공간이 없을 때까지 작동 
+{//-- arrayAnimal 배열에 빈공간이 없을 때까지 작동
 	while (1)
 	{
 		int randPos = rand() % 20;
@@ -186,7 +190,7 @@ int RFoundAllAnimals()
 		for (int j = 0; j < 5; j++) {
 			if (check_Animal[i][j] == 0)
 			{
-				return 0; // 뒤집지 않은 카드가 있다. 
+				return 0; // 뒤집지 않은 카드가 있다.
 			}
 		}
 	}
@@ -196,7 +200,7 @@ int RFoundAllAnimals()
 //////////////////
 // x, y 좌표 함수정의
 ////////////
-int conv_pos_x(int x) 
+int conv_pos_x(int x)
 {
 	return x / 5;
 }
