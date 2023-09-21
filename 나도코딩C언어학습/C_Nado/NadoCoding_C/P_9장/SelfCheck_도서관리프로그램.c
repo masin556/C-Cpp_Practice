@@ -42,7 +42,7 @@ int main(void)
 			break;
 		}
 		if (input < 1 || input > 4) {
-			printf("잘 못 된 입력입니다.Ashole");
+			printf("잘 못 된 입력입니다.Asshole");
 			continue;
 		}
 		input -= 1;

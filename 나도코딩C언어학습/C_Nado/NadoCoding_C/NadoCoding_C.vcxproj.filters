@@ -28,6 +28,9 @@
     <Filter Include="P_9장">
       <UniqueIdentifier>{e9a82800-092b-4089-bdc6-a8b9a8595691}</UniqueIdentifier>
     </Filter>
+    <Filter Include="P_10장">
+      <UniqueIdentifier>{2e72b270-045b-4c1f-aa92-cbc11b87387b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="P_1장\Hello.c">
@@ -209,6 +212,15 @@
     </ClCompile>
     <ClCompile Include="P_9장\SelfCheck_도서관리프로그램.c">
       <Filter>P_9장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_10장\FIleInputOutput10_2.c">
+      <Filter>P_10장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_10장\FileInOutType10_3.c">
+      <Filter>P_10장</Filter>
+    </ClCompile>
+    <ClCompile Include="P_10장\Project_비밀일기프로그램10_4.c">
+      <Filter>P_10장</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
