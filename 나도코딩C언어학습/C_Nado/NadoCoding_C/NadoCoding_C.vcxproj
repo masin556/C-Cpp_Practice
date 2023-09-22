@@ -136,7 +136,10 @@
     <ClCompile Include="P_10장\FIleInputOutput10_2.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="P_10장\Project_비밀일기프로그램10_4.c" />
+    <ClCompile Include="P_10장\Project_비밀일기프로그램10_4.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="P_10장\SelfCheck_영어단어공부퀴즈.c" />
     <ClCompile Include="P_1장\Hello.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>

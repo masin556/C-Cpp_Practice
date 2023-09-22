@@ -222,5 +222,8 @@
     <ClCompile Include="P_10장\Project_비밀일기프로그램10_4.c">
       <Filter>P_10장</Filter>
     </ClCompile>
+    <ClCompile Include="P_10장\SelfCheck_영어단어공부퀴즈.c">
+      <Filter>P_10장</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
