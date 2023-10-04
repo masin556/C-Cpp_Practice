@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="P_01_C와는 다른CPP">
+      <UniqueIdentifier>{38b2ed63-c50b-413e-a28e-6f2cb5497f35}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PCH">
+      <UniqueIdentifier>{2c266fc5-6ca8-4a1e-b43e-b7c5bb949c63}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="P_01_C와는 다른CPP\Hellocpp_01.cpp">
+      <Filter>P_01_C와는 다른CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="P_01_C와는 다른CPP\Cout1_3_1.cpp">
+      <Filter>P_01_C와는 다른CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>PCH</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h">
+      <Filter>PCH</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
