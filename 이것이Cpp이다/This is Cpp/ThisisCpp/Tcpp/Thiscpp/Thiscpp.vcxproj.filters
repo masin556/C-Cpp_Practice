@@ -18,10 +18,21 @@
     <ClCompile Include="pch.cpp">
       <Filter>PCH</Filter>
     </ClCompile>
+    <ClCompile Include="P_01_C와는 다른CPP\Cin1_3_2.cpp">
+      <Filter>P_01_C와는 다른CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="P_01_C와는 다른CPP\AutoSample1_4_2.cpp">
+      <Filter>P_01_C와는 다른CPP</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
       <Filter>PCH</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="P_01_C와는 다른CPP\DataType1_4.txt">
+      <Filter>P_01_C와는 다른CPP</Filter>
+    </Text>
   </ItemGroup>
 </Project>
