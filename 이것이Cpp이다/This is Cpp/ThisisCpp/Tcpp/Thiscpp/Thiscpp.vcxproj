@@ -207,13 +207,19 @@
     <ClCompile Include="P_02_CPP함수와 네임스페이스\FunctionTemplate2_2_3_01.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="P_02_CPP함수와 네임스페이스\InlineFunction2_3.cpp" />
+    <ClCompile Include="P_02_CPP함수와 네임스페이스\InlineFunction2_3.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="P_02_CPP함수와 네임스페이스\Namespace2_4_1_01.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="P_02_CPP함수와 네임스페이스\Overloading2_2_1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="P_02_CPP함수와 네임스페이스\OverloadingAmbiguity2_2_2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="P_02_CPP함수와 네임스페이스\using2_4_2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />

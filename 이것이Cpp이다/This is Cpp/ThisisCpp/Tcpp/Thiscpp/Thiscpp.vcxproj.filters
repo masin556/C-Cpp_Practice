@@ -87,6 +87,12 @@
     <ClCompile Include="P_02_CPP함수와 네임스페이스\InlineFunction2_3.cpp">
       <Filter>P_02_CPP함수와 네임스페이스</Filter>
     </ClCompile>
+    <ClCompile Include="P_02_CPP함수와 네임스페이스\Namespace2_4_1_01.cpp">
+      <Filter>P_02_CPP함수와 네임스페이스</Filter>
+    </ClCompile>
+    <ClCompile Include="P_02_CPP함수와 네임스페이스\using2_4_2.cpp">
+      <Filter>P_02_CPP함수와 네임스페이스</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">

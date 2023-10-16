@@ -31,6 +31,9 @@
     <Filter Include="P_10장">
       <UniqueIdentifier>{2e72b270-045b-4c1f-aa92-cbc11b87387b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Com2s_C_Study">
+      <UniqueIdentifier>{e4f854bb-add9-4ac8-bbdd-dd34c0351239}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="P_1장\Hello.c">
@@ -224,6 +227,9 @@
     </ClCompile>
     <ClCompile Include="P_10장\SelfCheck_영어단어공부퀴즈.c">
       <Filter>P_10장</Filter>
+    </ClCompile>
+    <ClCompile Include="Com2s_C_Study\writefunc.c">
+      <Filter>Com2s_C_Study</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
