@@ -93,6 +93,15 @@
     <ClCompile Include="P_02_CPP함수와 네임스페이스\using2_4_2.cpp">
       <Filter>P_02_CPP함수와 네임스페이스</Filter>
     </ClCompile>
+    <ClCompile Include="P_02_CPP함수와 네임스페이스\NSOverlapping2_4_3.cpp">
+      <Filter>P_02_CPP함수와 네임스페이스</Filter>
+    </ClCompile>
+    <ClCompile Include="P_02_CPP함수와 네임스페이스\NamespaceMultiple.cpp">
+      <Filter>P_02_CPP함수와 네임스페이스</Filter>
+    </ClCompile>
+    <ClCompile Include="P_02_CPP함수와 네임스페이스\IdSearchSeq2_5_1.cpp">
+      <Filter>P_02_CPP함수와 네임스페이스</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
