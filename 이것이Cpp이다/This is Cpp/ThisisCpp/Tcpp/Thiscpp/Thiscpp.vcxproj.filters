@@ -10,6 +10,9 @@
     <Filter Include="P_02_CPP함수와 네임스페이스">
       <UniqueIdentifier>{71d8a5d1-8b11-483e-b40e-cc86218e1907}</UniqueIdentifier>
     </Filter>
+    <Filter Include="NewFilter1">
+      <UniqueIdentifier>{a5024691-8944-4834-ae11-821923a764ac}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="P_01_C와는 다른CPP\Hellocpp_01.cpp">
@@ -100,6 +103,15 @@
       <Filter>P_02_CPP함수와 네임스페이스</Filter>
     </ClCompile>
     <ClCompile Include="P_02_CPP함수와 네임스페이스\IdSearchSeq2_5_1.cpp">
+      <Filter>P_02_CPP함수와 네임스페이스</Filter>
+    </ClCompile>
+    <ClCompile Include="P_02_CPP함수와 네임스페이스\IdSearchSeq2_5_2.cpp">
+      <Filter>P_02_CPP함수와 네임스페이스</Filter>
+    </ClCompile>
+    <ClCompile Include="P_02_CPP함수와 네임스페이스\IdSearchSeq2_5_3.cpp">
+      <Filter>P_02_CPP함수와 네임스페이스</Filter>
+    </ClCompile>
+    <ClCompile Include="P_02_CPP함수와 네임스페이스\PraticeCode_2.cpp">
       <Filter>P_02_CPP함수와 네임스페이스</Filter>
     </ClCompile>
   </ItemGroup>
