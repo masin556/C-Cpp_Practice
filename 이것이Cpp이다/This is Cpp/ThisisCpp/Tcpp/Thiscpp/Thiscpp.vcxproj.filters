@@ -10,8 +10,8 @@
     <Filter Include="P_02_CPP함수와 네임스페이스">
       <UniqueIdentifier>{71d8a5d1-8b11-483e-b40e-cc86218e1907}</UniqueIdentifier>
     </Filter>
-    <Filter Include="NewFilter1">
-      <UniqueIdentifier>{a5024691-8944-4834-ae11-821923a764ac}</UniqueIdentifier>
+    <Filter Include="P_03_객체치향프로그래밍">
+      <UniqueIdentifier>{58c2186b-0c5d-429a-9ffe-4ff148fe605a}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -113,6 +113,18 @@
     </ClCompile>
     <ClCompile Include="P_02_CPP함수와 네임스페이스\PraticeCode_2.cpp">
       <Filter>P_02_CPP함수와 네임스페이스</Filter>
+    </ClCompile>
+    <ClCompile Include="P_03_객체지향프로그래밍\OOP3_1_01.cpp">
+      <Filter>P_03_객체치향프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="P_03_객체지향프로그래밍\HelloOOP1.c">
+      <Filter>P_03_객체치향프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="P_03_객체지향프로그래밍\HelloOOP2.c">
+      <Filter>P_03_객체치향프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="P_03_객체지향프로그래밍\HelloOOP3.c">
+      <Filter>P_03_객체치향프로그래밍</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
