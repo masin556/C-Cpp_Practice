@@ -129,6 +129,12 @@
     <ClCompile Include="HelloOOP_01.cpp">
       <Filter>P_03_객체치향프로그래밍</Filter>
     </ClCompile>
+    <ClCompile Include="P_03_객체지향프로그래밍\MemberInit1.cpp">
+      <Filter>P_03_객체치향프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="P_03_객체지향프로그래밍\MemberInit2.cpp">
+      <Filter>P_03_객체치향프로그래밍</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
