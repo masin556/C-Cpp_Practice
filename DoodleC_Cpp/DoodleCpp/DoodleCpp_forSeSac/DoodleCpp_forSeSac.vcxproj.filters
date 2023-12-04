@@ -2,8 +2,14 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <ClCompile Include="P10객체와 클래스\Cpp_생성자활용하기01.cpp" />
-    <ClCompile Include="help.cpp" />
     <ClCompile Include="help.h" />
     <ClCompile Include="P10객체와 클래스\Cpp_생성자멤버초기화목록02.cpp" />
+    <ClCompile Include="P10객체와 클래스\cpp_정적멤버메서드_01.cpp" />
+    <ClCompile Include="P10객체와 클래스\cpp_정적멤버메서드_02.cpp" />
+    <ClCompile Include="P09\Practice_1_01.cpp" />
+    <ClCompile Include="P09\Practice_1_02.cpp" />
+    <ClCompile Include="P09\Practice_1_03.cpp" />
+    <ClCompile Include="P10객체와 클래스\CPP_정적멤버변수_01.cpp" />
+    <ClCompile Include="P10객체와 클래스\Cpp_상수형 메서드_01.cpp" />
   </ItemGroup>
 </Project>
