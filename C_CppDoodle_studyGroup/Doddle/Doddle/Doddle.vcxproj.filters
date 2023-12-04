@@ -15,5 +15,7 @@
     <ClCompile Include="Cpp_Chap_9\Practice_1_03.cpp">
       <Filter>Cpp_Chap_9</Filter>
     </ClCompile>
+    <ClCompile Include="Cpp_Chap_10\cpp_정적멤버메서드_01.cpp" />
+    <ClCompile Include="Cpp_Chap_10\cpp_정적멤버메서드_02.cpp" />
   </ItemGroup>
 </Project>
