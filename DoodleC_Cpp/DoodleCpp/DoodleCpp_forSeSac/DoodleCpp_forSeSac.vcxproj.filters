@@ -11,5 +11,10 @@
     <ClCompile Include="P09\Practice_1_03.cpp" />
     <ClCompile Include="P10객체와 클래스\CPP_정적멤버변수_01.cpp" />
     <ClCompile Include="P10객체와 클래스\Cpp_상수형 메서드_01.cpp" />
+    <ClCompile Include="P10객체와 클래스\Test\cpp_1번.cpp" />
+    <ClCompile Include="P11동적할당과객체복사\cpp_임시객체예제01.cpp" />
+    <ClCompile Include="P11동적할당과객체복사\cpp_이동시맨틱01.cpp" />
+    <ClCompile Include="P11동적할당과객체복사\cpp_이동시맨틱02.cpp" />
+    <ClCompile Include="P11동적할당과객체복사\cpp_복사생성자01.cpp" />
   </ItemGroup>
 </Project>
