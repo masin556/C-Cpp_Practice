@@ -16,5 +16,8 @@
     <ClCompile Include="P11동적할당과객체복사\cpp_이동시맨틱01.cpp" />
     <ClCompile Include="P11동적할당과객체복사\cpp_이동시맨틱02.cpp" />
     <ClCompile Include="P11동적할당과객체복사\cpp_복사생성자01.cpp" />
+    <ClCompile Include="P11동적할당과객체복사\cpp_이동생성자와대입연산자01.cpp" />
+    <ClCompile Include="P11동적할당과객체복사\Test\cpp_test01.cpp" />
+    <ClCompile Include="P12상속\cpp_상위하위클래스.cpp" />
   </ItemGroup>
 </Project>

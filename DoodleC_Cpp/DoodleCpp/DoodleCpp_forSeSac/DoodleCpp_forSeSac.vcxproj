@@ -167,7 +167,12 @@
     <ClCompile Include="P10객체와 클래스\Test\cpp_1번.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="P11동적할당과객체복사\cpp_복사생성자01.cpp" />
+    <ClCompile Include="P11동적할당과객체복사\cpp_복사생성자01.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="P11동적할당과객체복사\cpp_이동생성자와대입연산자01.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="P11동적할당과객체복사\cpp_이동시맨틱01.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
@@ -177,6 +182,10 @@
     <ClCompile Include="P11동적할당과객체복사\cpp_임시객체예제01.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="P11동적할당과객체복사\Test\cpp_test01.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="P12상속\cpp_상위하위클래스.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="help.h" />

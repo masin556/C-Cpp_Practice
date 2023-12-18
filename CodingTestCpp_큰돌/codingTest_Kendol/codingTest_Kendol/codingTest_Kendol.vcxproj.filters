@@ -2,5 +2,6 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <ClCompile Include="0주차\Recursion_재귀.cpp" />
+    <ClCompile Include="0주차\permutation_순열.cpp" />
   </ItemGroup>
 </Project>
