@@ -19,5 +19,8 @@
     <ClCompile Include="P11동적할당과객체복사\cpp_이동생성자와대입연산자01.cpp" />
     <ClCompile Include="P11동적할당과객체복사\Test\cpp_test01.cpp" />
     <ClCompile Include="P12상속\cpp_상위하위클래스.cpp" />
+    <ClCompile Include="P12상속\cpp_상속과 접근제어01.cpp" />
+    <ClCompile Include="P12상속\cpp_클래스상속예제.cpp" />
+    <ClCompile Include="P12상속\cpp_클래스상속예제02.cpp" />
   </ItemGroup>
 </Project>
