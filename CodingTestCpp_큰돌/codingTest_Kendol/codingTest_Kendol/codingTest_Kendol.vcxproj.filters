@@ -3,5 +3,6 @@
   <ItemGroup>
     <ClCompile Include="0주차\Recursion_재귀.cpp" />
     <ClCompile Include="0주차\permutation_순열.cpp" />
+    <ClCompile Include="0주차\mask_Permutation_순열.cpp" />
   </ItemGroup>
 </Project>
