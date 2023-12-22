@@ -4,6 +4,10 @@
 
 #include <Windows.h>
 #include <iostream>
-#include <string.h>
+#include <string>
+#include <cmath>
+#include <vector>
 
+
+#include <string.h>
 using namespace std;
