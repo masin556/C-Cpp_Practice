@@ -167,6 +167,9 @@
     <ClCompile Include="P10객체와 클래스\Test\cpp_1번.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="P11동적할당과객체복사\cpp_explicit.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="P11동적할당과객체복사\cpp_복사생성자01.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
@@ -185,22 +188,26 @@
     <ClCompile Include="P11동적할당과객체복사\Test\cpp_test01.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="P12상속\cpp_배열에서 업캐스팅을 잘못 사용한 사례.cpp" />
     <ClCompile Include="P12상속\cpp_상속과 접근제어01.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="P12상속\cpp_상위하위클래스.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="P12상속\cpp_클래스상속예제02.cpp" />
+<<<<<<< HEAD
+=======
+    <ClCompile Include="P12상속\cpp_원과직사각형.cpp" />
+>>>>>>> b007339afc7bb88c533b8cb8b2f5efdc0ab8de80
+    <ClCompile Include="P12상속\cpp_클래스상속예제02.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="P12상속\cpp_클래스상속예제.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="help.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include=".clang-format" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

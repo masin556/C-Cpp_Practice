@@ -1,8 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="0주차\Recursion_재귀.cpp" />
-    <ClCompile Include="0주차\permutation_순열.cpp" />
-    <ClCompile Include="0주차\mask_Permutation_순열.cpp" />
+    <ClCompile Include="0주차\mask_Permutation_순열.cpp">
+      <Filter>0주차</Filter>
+    </ClCompile>
+    <ClCompile Include="0주차\permutation_순열.cpp">
+      <Filter>0주차</Filter>
+    </ClCompile>
+    <ClCompile Include="0주차\Recursion_재귀.cpp">
+      <Filter>0주차</Filter>
+    </ClCompile>
+    <ClCompile Include="0주차\Combination_조합.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="0주차">
+      <UniqueIdentifier>{d5c1f99e-fa13-4322-b94e-b54911a74973}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
 </Project>
