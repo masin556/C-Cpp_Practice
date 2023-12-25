@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="P12상속">
+      <UniqueIdentifier>{e5913b8e-778b-49b8-80df-80c431b66243}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="P12상속\cpp_상위하위클래스.cpp">
+      <Filter>P12상속</Filter>
+    </ClCompile>
+    <ClCompile Include="P12상속\cpp_원과직사각형.cpp">
+      <Filter>P12상속</Filter>
+    </ClCompile>
+    <ClCompile Include="P12상속\cpp_클래스상속예제.cpp">
+      <Filter>P12상속</Filter>
+    </ClCompile>
+    <ClCompile Include="P12상속\cpp_클래스상속예제02.cpp">
+      <Filter>P12상속</Filter>
+    </ClCompile>
+    <ClCompile Include="P12상속\cpp_배열에서 업캐스팅을 잘못 사용한 사례.cpp">
+      <Filter>P12상속</Filter>
+    </ClCompile>
+    <ClCompile Include="P12상속\cpp_상속과 접근제어01.cpp">
+      <Filter>P12상속</Filter>
+    </ClCompile>
+    <ClCompile Include="P12상속\cpp_추상화알아보기.cpp">
+      <Filter>P12상속</Filter>
+    </ClCompile>
+    <ClCompile Include="P12상속\cpp_추상화알아보기02.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\.clang-format" />
+  </ItemGroup>
+</Project>
