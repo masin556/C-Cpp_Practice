@@ -196,6 +196,10 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    <ClCompile Include="P12상속\cpp_원과직사각형.cpp" />
+>>>>>>> b007339afc7bb88c533b8cb8b2f5efdc0ab8de80
 =======
     <ClCompile Include="P12상속\cpp_원과직사각형.cpp" />
 >>>>>>> b007339afc7bb88c533b8cb8b2f5efdc0ab8de80

@@ -23,8 +23,12 @@
     <ClCompile Include="P12상속\cpp_클래스상속예제.cpp" />
     <ClCompile Include="P12상속\cpp_클래스상속예제02.cpp" />
 <<<<<<< HEAD
+<<<<<<< HEAD
     <ClCompile Include="P11동적할당과객체복사\cpp_explicit.cpp" />
     <ClCompile Include="P12상속\cpp_배열에서 업캐스팅을 잘못 사용한 사례.cpp" />
+=======
+    <ClCompile Include="P12상속\cpp_원과직사각형.cpp" />
+>>>>>>> b007339afc7bb88c533b8cb8b2f5efdc0ab8de80
 =======
     <ClCompile Include="P12상속\cpp_원과직사각형.cpp" />
 >>>>>>> b007339afc7bb88c533b8cb8b2f5efdc0ab8de80
