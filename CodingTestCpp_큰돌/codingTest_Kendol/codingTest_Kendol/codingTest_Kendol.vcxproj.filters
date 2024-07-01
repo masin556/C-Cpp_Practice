@@ -11,10 +11,22 @@
       <Filter>0주차</Filter>
     </ClCompile>
     <ClCompile Include="0주차\Combination_조합.cpp" />
+    <ClCompile Include="split_function.cpp">
+      <Filter>0주차</Filter>
+    </ClCompile>
+    <ClCompile Include="DFS01.cpp">
+      <Filter>2주차</Filter>
+    </ClCompile>
+    <ClCompile Include="dfs_종화는방구쟁이.cpp">
+      <Filter>2주차</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="0주차">
       <UniqueIdentifier>{d5c1f99e-fa13-4322-b94e-b54911a74973}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2주차">
+      <UniqueIdentifier>{25284203-906e-439e-9bfa-9661d6d9d604}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

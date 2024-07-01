@@ -154,10 +154,19 @@
     <ClCompile Include="ETC\cpp_swaps_참조변수.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="P13Cpp고급기능\cpp_unique_ptr01.cpp" />
+    <ClCompile Include="P13Cpp고급기능\cpp_예외처리02.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="P13Cpp고급기능\cpp_예외처리03.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="P13Cpp고급기능\cpp_예외처리04.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="P13Cpp고급기능\cpp_함수템플릿_배열합.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="P13Cpp고급기능\test.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\..\..\.clang-format" />
