@@ -34,6 +34,9 @@
     <ClCompile Include="P13Cpp고급기능\cpp_예외처리03.cpp" />
     <ClCompile Include="P13Cpp고급기능\cpp_예외처리04.cpp" />
     <ClCompile Include="P13Cpp고급기능\cpp_unique_ptr01.cpp" />
+    <ClCompile Include="FunctionPointer_01.cpp" />
+    <ClCompile Include="FunctionPointer_02.cpp" />
+    <ClCompile Include="FunctionPointer_03.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\..\..\.clang-format" />

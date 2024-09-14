@@ -81,6 +81,8 @@
     <ClCompile Include="cppMMORPG\S_열거형\Enumeration_type.cpp">
       <Filter>cppMMORPG\S_열거형</Filter>
     </ClCompile>
+    <ClCompile Include="cppMMORPG\Section3\산술연산.cpp" />
+    <ClCompile Include="cppMMORPG\Section3\비교_논리연산.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="cppMMORPG\const와 메모리구조\constWithmemory.txt">

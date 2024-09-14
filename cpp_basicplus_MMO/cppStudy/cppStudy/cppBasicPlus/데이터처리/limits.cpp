@@ -1,6 +1,6 @@
-/*Á¤¼öÇü ¹üÀ§ ¾Ë¾Æ³»´Â ¹ý*/
+/*ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ë¾Æ³ï¿½ï¿½ï¿½ ï¿½ï¿½*/
 
-#pragma region sizeof & climits»ç¿ë
+#pragma region sizeof & climitsï¿½ï¿½ï¿½
 #include <iostream>
 #include <climits>
 
@@ -8,24 +8,24 @@ using namespace std;
 
 int main()
 {
-	int n_int = INT_MAX;  //n_int¸¦ intÇüÀÇ ÃÖ´ë°ªÀ¸·Î ÃÊ±âÈ­
-	short n_short = SHRT_MAX;  //limits.h ÆÄÀÏ¿¡ Á¤ÀÇµÈ ±âÈ£ »ó¼ö
+	int n_int = INT_MAX;  //n_intï¿½ï¿½ intï¿½ï¿½ï¿½ï¿½ ï¿½Ö´ë°ªï¿½ï¿½ï¿½ï¿½ ï¿½Ê±ï¿½È­
+	short n_short = SHRT_MAX;  //limits.h ï¿½ï¿½ï¿½Ï¿ï¿½ ï¿½ï¿½ï¿½Çµï¿½ ï¿½ï¿½È£ ï¿½ï¿½ï¿½
 	long n_long = LONG_MAX;
 	long long n_llong = LLONG_MAX;
 
-	//sizeof ¿¬»êÀÚ´Â µ¥ÀÌÅÍÇüÀÌ³ª º¯¼öÀÇ Å©±â¸¦ ¾Ë¾Æ³½´Ù.
-	cout << "int´Â " << sizeof(int) << " ¹ÙÀÌÆ®ÀÌ´Ù." << endl;
-	cout << "short´Â " << sizeof n_short << " ¹ÙÀÌÆ®ÀÌ´Ù." << endl;
-	cout << "long´Â " << sizeof n_long << " ¹ÙÀÌÆ®ÀÌ´Ù." << endl;
-	cout << "long long´Â " << sizeof n_llong << " ¹ÙÀÌÆ®ÀÌ´Ù." << endl;
+	//sizeof ï¿½ï¿½ï¿½ï¿½ï¿½Ú´ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì³ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Å©ï¿½â¸¦ ï¿½Ë¾Æ³ï¿½ï¿½ï¿½.
+	cout << "intï¿½ï¿½ " << sizeof(int) << " ï¿½ï¿½ï¿½ï¿½Æ®ï¿½Ì´ï¿½." << endl;
+	cout << "shortï¿½ï¿½ " << sizeof n_short << " ï¿½ï¿½ï¿½ï¿½Æ®ï¿½Ì´ï¿½." << endl;
+	cout << "longï¿½ï¿½ " << sizeof n_long << " ï¿½ï¿½ï¿½ï¿½Æ®ï¿½Ì´ï¿½." << endl;
+	cout << "long longï¿½ï¿½ " << sizeof n_llong << " ï¿½ï¿½ï¿½ï¿½Æ®ï¿½Ì´ï¿½." << endl;
 	cout << endl;
 
-	cout << "ÃÖ´ë°ª:" << endl;
+	cout << "ï¿½Ö´ë°ª:" << endl;
 	cout << "short: " << n_short << endl;
 	cout << "long: " << n_long << endl;
 	cout << "long long: " << n_llong << endl;
-	cout << "intÀÇ ÃÖ¼Ò ÃÖ´ë = " << INT_MIN << " ~ " << n_int << endl;
-	cout << "charÀÇ ºñÆ® ¼ö = " << CHAR_BIT << endl;
+	cout << "intï¿½ï¿½ ï¿½Ö¼ï¿½ ï¿½Ö´ï¿½ = " << INT_MIN << " ~ " << n_int << endl;
+	cout << "charï¿½ï¿½ ï¿½ï¿½Æ® ï¿½ï¿½ = " << CHAR_BIT << endl;
 
 	return 0;
 }
