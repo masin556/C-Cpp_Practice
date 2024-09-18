@@ -83,6 +83,7 @@
     </ClCompile>
     <ClCompile Include="cppMMORPG\Section3\산술연산.cpp" />
     <ClCompile Include="cppMMORPG\Section3\비교_논리연산.cpp" />
+    <ClCompile Include="cppMMORPG\Section3\비트연산과비트플래그.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="cppMMORPG\const와 메모리구조\constWithmemory.txt">
