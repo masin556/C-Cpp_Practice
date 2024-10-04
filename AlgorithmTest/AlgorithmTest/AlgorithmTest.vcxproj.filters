@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Hash">
+      <UniqueIdentifier>{0102be22-54c0-4937-b49f-4e755f57628c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DFS">
+      <UniqueIdentifier>{ee22c22f-0357-450d-a7db-86a8db55baf2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BFS">
+      <UniqueIdentifier>{c1589d7c-6c9a-4f61-a0a1-fda642700313}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Hash\Programmers_완주하지못한선수.cpp">
+      <Filter>Hash</Filter>
+    </ClCompile>
+    <ClCompile Include="BFS_DFS\게임맵최단거리.cpp">
+      <Filter>BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp" />
+    <ClCompile Include="Math\pizza1.cpp" />
+    <ClCompile Include="Stack\Boj_10828_스택.cpp" />
+    <ClCompile Include="Basics\Boj_10988_팰린드롬인지확인.cpp" />
+    <ClCompile Include="Math\Boj_15552_빠른A+B.cpp" />
+    <ClCompile Include="Basics\Boj_2439_별찍기2.cpp" />
+    <ClCompile Include="Basics\Boj_25314_코딩은 체육과목입니다.cpp" />
+    <ClCompile Include="Basics\Boj_27323_직사각형.cpp" />
+    <ClCompile Include="Basics\Boj_1085_직사각형에서의 탈출.cpp" />
+    <ClCompile Include="Stack\Boj_28278_스택2.cpp" />
+    <ClCompile Include="Basics\Boj_11654_아스키코드.cpp" />
+    <ClCompile Include="Basics\Boj_13752_히스토그램.cpp" />
+    <ClCompile Include="Basics\Boj_17094_SeriousProblem.cpp" />
+    <ClCompile Include="Basics\Boj_22938_백발백준하는명사수.cpp" />
+    <ClCompile Include="Sort\Boj_11650_좌표 정렬하기.cpp" />
+    <ClCompile Include="Basics\Boj_10953_A+B_6.cpp" />
+    <ClCompile Include="Basics\Boj_11004_k번째 수.cpp" />
+    <ClCompile Include="Basics\Boj_11721_열개씩 끊어 출력.cpp" />
+    <ClCompile Include="Greedy\Boj_2839_설탕배달.cpp" />
+    <ClCompile Include="Basics\Boj_2562_최댓값.cpp" />
+    <ClCompile Include="Sort\Boj_1517_버블소트.cpp" />
+    <ClCompile Include="Basics\Boj_3052_나머지.cpp" />
+    <ClCompile Include="BFS_DFS\Boj_24480_알고리즘깊이우선탐색.cpp" />
+    <ClCompile Include="BFS_DFS\Boj_1260_BFSDFS.cpp" />
+    <ClCompile Include="BFS_DFS\Boj_24479_깊이우선탐색1.cpp" />
+    <ClCompile Include="Basics\Boj_5597_과제 안내신분.cpp" />
+    <ClCompile Include="Basics\Boj_10810.cpp" />
+    <ClCompile Include="BFS_DFS\Boj_2606_바이러스.cpp" />
+    <ClCompile Include="BFS_DFS\Boj_2667_단지번호붙이기.cpp" />
+    <ClCompile Include="Basics\Boj_10813_공바꾸기.cpp" />
+    <ClCompile Include="Basics\Boj_10809_알파벳찾기.cpp" />
+    <ClCompile Include="BFS_DFS\Pg_타켓넘버.cpp" />
+    <ClCompile Include="Basics\Boj_2738_행렬덧셈.cpp" />
+    <ClCompile Include="Basics\Boj_2908_상수.cpp" />
+    <ClCompile Include="Basics\Boj_5622_다이얼.cpp" />
+    <ClCompile Include="Basics\Boj_3003_킹퀸룩비숍나이트.cpp" />
+    <ClCompile Include="Basics\Boj_1316_그룹단어체커.cpp" />
+    <ClCompile Include="Basics\Pro_주사위 게임3.cpp" />
+    <ClCompile Include="Basics\Boj_2563_색종이.cpp" />
+    <ClCompile Include="Basics\Boj_25206_너의 평점은.cpp" />
+    <ClCompile Include="Basics\Boj_2745_진법변환.cpp" />
+    <ClCompile Include="Basics\Boj_1977_완전제곱수.cpp" />
+    <ClCompile Include="Search\Boj_1300_K번째 수.cpp" />
+    <ClCompile Include="Search\Programmers_K번째수.cpp" />
+    <ClCompile Include="Basics\별찍기Test_01.cpp" />
+    <ClCompile Include="Test012.cpp" />
+    <ClCompile Include="test013.cpp" />
+    <ClCompile Include="test014.cpp" />
+    <ClCompile Include="test015.cpp" />
+    <ClCompile Include="그림으로배우는CS\LinkedList\CS_LinkedList.cpp" />
+    <ClCompile Include="그림으로배우는CS\Stack\Stack.cpp" />
+    <ClCompile Include="그림으로배우는CS\Queue\Queue.cpp" />
+    <ClCompile Include="Students.cpp" />
+    <ClCompile Include="CustomerService.cpp" />
+    <ClCompile Include="static.cpp" />
+    <ClCompile Include="그림으로배우는CS\Deque\Deque.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="그림으로배우는CS\Stack\Stack.h" />
+    <ClInclude Include="그림으로배우는CS\LinkedList\CS_LinkedList.h" />
+    <ClInclude Include="그림으로배우는CS\Queue\Queue.h" />
+    <ClInclude Include="그림으로배우는CS\Queue\DoubleLinkedList.h" />
+    <ClInclude Include="그림으로배우는CS\Deque\Deque.h" />
+    <ClInclude Include="그림으로배우는CS\Deque\DoubleLinkedList.h" />
+  </ItemGroup>
+</Project>
