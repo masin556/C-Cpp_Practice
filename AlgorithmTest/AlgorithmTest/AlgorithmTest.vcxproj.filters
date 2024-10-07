@@ -74,6 +74,10 @@
     <ClCompile Include="CustomerService.cpp" />
     <ClCompile Include="static.cpp" />
     <ClCompile Include="그림으로배우는CS\Deque\Deque.cpp" />
+    <ClCompile Include="그림으로배우는CS\Hash\Hash.cpp" />
+    <ClCompile Include="그림으로배우는CS\Set\Set.cpp" />
+    <ClCompile Include="그림으로배우는CS\Recursion재귀\RecursionFunction.cpp" />
+    <ClCompile Include="그림으로배우는CS\Recursion재귀\Factorial.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="그림으로배우는CS\Stack\Stack.h" />
@@ -82,5 +86,8 @@
     <ClInclude Include="그림으로배우는CS\Queue\DoubleLinkedList.h" />
     <ClInclude Include="그림으로배우는CS\Deque\Deque.h" />
     <ClInclude Include="그림으로배우는CS\Deque\DoubleLinkedList.h" />
+    <ClInclude Include="그림으로배우는CS\Hash\Hash.h" />
+    <ClInclude Include="그림으로배우는CS\Hash\DoubleLinkedList.h" />
+    <ClInclude Include="그림으로배우는CS\Set\Set.h" />
   </ItemGroup>
 </Project>

@@ -247,6 +247,9 @@
     <ClCompile Include="그림으로배우는CS\Deque\Deque.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="그림으로배우는CS\Hash\Hash.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="그림으로배우는CS\LinkedList\CS_LinkedList.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
@@ -295,7 +298,16 @@
     <ClCompile Include="test015.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="그림으로배우는CS\Queue\Queue.cpp" />
+    <ClCompile Include="그림으로배우는CS\Queue\Queue.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="그림으로배우는CS\Recursion재귀\Factorial.cpp" />
+    <ClCompile Include="그림으로배우는CS\Recursion재귀\RecursionFunction.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="그림으로배우는CS\Set\Set.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="그림으로배우는CS\Stack\Stack.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
@@ -303,9 +315,12 @@
   <ItemGroup>
     <ClInclude Include="그림으로배우는CS\Deque\Deque.h" />
     <ClInclude Include="그림으로배우는CS\Deque\DoubleLinkedList.h" />
+    <ClInclude Include="그림으로배우는CS\Hash\DoubleLinkedList.h" />
+    <ClInclude Include="그림으로배우는CS\Hash\Hash.h" />
     <ClInclude Include="그림으로배우는CS\LinkedList\CS_LinkedList.h" />
     <ClInclude Include="그림으로배우는CS\Queue\DoubleLinkedList.h" />
     <ClInclude Include="그림으로배우는CS\Queue\Queue.h" />
+    <ClInclude Include="그림으로배우는CS\Set\Set.h" />
     <ClInclude Include="그림으로배우는CS\Stack\Stack.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
