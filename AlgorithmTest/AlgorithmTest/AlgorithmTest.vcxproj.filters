@@ -78,6 +78,8 @@
     <ClCompile Include="그림으로배우는CS\Set\Set.cpp" />
     <ClCompile Include="그림으로배우는CS\Recursion재귀\RecursionFunction.cpp" />
     <ClCompile Include="그림으로배우는CS\Recursion재귀\Factorial.cpp" />
+    <ClCompile Include="그림으로배우는CS\Recursion재귀\RecursionThink01.cpp" />
+    <ClCompile Include="test0101.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="그림으로배우는CS\Stack\Stack.h" />
