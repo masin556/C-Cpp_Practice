@@ -244,7 +244,9 @@
     <ClCompile Include="Students.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="test0101.cpp" />
+    <ClCompile Include="test0101.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="그림으로배우는CS\Deque\Deque.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
@@ -314,6 +316,10 @@
     <ClCompile Include="그림으로배우는CS\Set\Set.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="그림으로배우는CS\SMission\SMission.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="그림으로배우는CS\SMission\SMission02.cpp" />
     <ClCompile Include="그림으로배우는CS\Stack\Stack.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
@@ -326,6 +332,7 @@
     <ClInclude Include="그림으로배우는CS\LinkedList\CS_LinkedList.h" />
     <ClInclude Include="그림으로배우는CS\Queue\DoubleLinkedList.h" />
     <ClInclude Include="그림으로배우는CS\Queue\Queue.h" />
+    <ClInclude Include="그림으로배우는CS\quicksort.h" />
     <ClInclude Include="그림으로배우는CS\Set\Set.h" />
     <ClInclude Include="그림으로배우는CS\Stack\Stack.h" />
   </ItemGroup>
